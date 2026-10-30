@@ -64,5 +64,105 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-NanoParse is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://nanoparse.app
+NanoParse offers a web parsing service that converts any URL into clean Markdown, targeting AI agents. It provides deterministic Litmus signals to assess content freshness, authority, and citability. Users can parse for $0.005 per request using USDC on Base, with a free tier of 10 parses. The platform includes features like Litmus scoring, quickstart guides, and a blog for updates.
+
+**Areas:** Web Parsing · AI Agents · Markdown Conversion · Litmus Scoring · Crypto Payments
+
+## NanoParse on APIs.io
+
+Everything profiled for NanoParse is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nanoparse/](https://apis.io/providers/nanoparse/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [NanoParse API](https://apis.io/apis/nanoparse/nanoparse-api/) — Web parsing service converting URLs to clean Markdown with Litmus signals.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Nanoparse Agentic Access](https://apis.io/agentic-access/nanoparse/nanoparse-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [NanoParse API Rules](https://apis.io/rules/nanoparse/nanoparse-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Nanoparse Domain Security](https://apis.io/security/nanoparse/nanoparse-domain-security/)
+- [Nanoparse Vulnerability Disclosure](https://apis.io/security/nanoparse/nanoparse-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nanoparse.app)
+- [Documentation](https://nanoparse.app/quickstart)
+- [API reference](https://nanoparse.app/mcp)
+- [Blog](https://nanoparse.app/blog)
+- [Security](https://nanoparse.app/privacy)
+- [Terms of service](https://nanoparse.app/terms)
+- [Privacy policy](https://nanoparse.app/privacy)
+- [GitHub](https://github.com/nanoparse-dev)
+
+## API Evangelist rating
+
+**Kin Score 21.5** — emerging · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 71.7 |
+| Contract quality | 0.0 |
+| Contract governance | 31.8 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 12.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | near-conformant (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 22.3** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nanoparse/](https://apis.io/providers/nanoparse/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for NanoParse: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nanoparse/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
